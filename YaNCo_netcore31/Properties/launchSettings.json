@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "YaNCo_netcore31": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker",
+      "environmentVariables": {
+        "LD_LIBRARY_PATH": "/app"
+      }
+    }
+  }
+}
